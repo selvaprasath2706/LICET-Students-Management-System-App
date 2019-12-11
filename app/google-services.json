@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690430401681",
+    "firebase_url": "https://licet-325d8.firebaseio.com",
+    "project_id": "licet-325d8",
+    "storage_bucket": "licet-325d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690430401681:android:e46b8338441d4dc9523330",
+        "android_client_info": {
+          "package_name": "com.example.licet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690430401681-abrv6gl7t0g1dcrf7gqm9jl76tjg792c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPcIwI1tl-R5MOOrCLiZeZydtr5DqS4-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690430401681-abrv6gl7t0g1dcrf7gqm9jl76tjg792c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
